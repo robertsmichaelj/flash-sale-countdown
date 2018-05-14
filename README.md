@@ -2,6 +2,10 @@
 
 ### Creates & initializes Countdown Timer on any page with just a start and end date
 
+<br/>
+
+![Flash Sale Timer Image](/app/countdown.png)
+
 ##### Flash Sale Countdown Timer Widget Plugin for Bodybuilding.com Flash Sales
 
 <br/>
