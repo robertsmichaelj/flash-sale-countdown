@@ -1,6 +1,6 @@
 # Flash Sale Countdown Timer
 
-### Creates and Initializes Countdown Timer on Product Pages With Just Start and End Date
+### Creates & initializes Countdown Timer on any page with just a start and end date
 
 ##### Flash Sale Countdown Timer Widget Plugin for Bodybuilding.com Flash Sales
 
