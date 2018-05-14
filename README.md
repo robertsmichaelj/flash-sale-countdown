@@ -23,7 +23,7 @@
 **1. Add script and css tags at top of HTML content block**
 
 ```javascript
-<link rel="stylesheet" href="https://www.bodybuilding.com/scripts/productPages.css" />
+<link rel="stylesheet" href="https://www.bodybuilding.com/scripts/productPages.css"/>
 <script type="text/javascript" src="https://www.bodybuilding.com/scripts/productPages.js"></script>
 ```
 
@@ -32,8 +32,8 @@
 #### All that is technically needed to start and create a timer is a Start and End date
 ```javascript
 var flasher = new FlashSale({
-    saleEnd: "May 16 2018 23:59:59 MDT",
-    saleStart: "May 14 2018 11:52:00 MDT"
+    saleStart: "May 14 2018 11:52:00 MDT",
+    saleEnd: "May 16 2018 23:59:59 MDT"
 });
 ```
 
