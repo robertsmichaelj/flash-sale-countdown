@@ -21,6 +21,7 @@
   * Choose Font-Family and Font-Wweight
 * Toggle to show days remaining next to other numbers
 * Choose Max-Width of timer container
+* Choose Banner Image to show below timer
 
 <br />
 
@@ -53,8 +54,9 @@
 
 Options | Default | Description
 ------------ | ------------- | -------------
-appendTo: | "#vendor-content" | Name of container to append countdown to.
+insertAtTopOf: | ".VendorBlock" | Name of container to append countdown to.
 backgroundColor: | "#000000" | Background color of the countdown container.
+bannerImgURL | "urlhere" | What banner image should show below timer?
 days: | false | Change to true so days shows next to hours, etc. (example - 2d 14h 43m 12s).
 font: | "Arial, Helvetica, sans-serif" | Font to use within the countdown timer.
 fontSize: | "30px" | Font Size to use within the countdown timer.
