@@ -36,10 +36,12 @@
 
 #### All that is technically needed to start and create a timer is a Start and End date
 ```javascript
-var flasher = new FlashSale({
-    saleStart: "May 14 2018 11:52:00 MDT",
-    saleEnd: "May 16 2018 23:59:59 MDT"
-});
+<script>
+    var flasher = new FlashSale({
+        saleStart: "May 14 2018 11:52:00 MDT",
+        saleEnd: "May 16 2018 23:59:59 MDT"
+    });
+</script>
 ```
 
 <br />
